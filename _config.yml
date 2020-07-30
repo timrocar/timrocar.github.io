@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Timothy Carroll
+title: Timothy Carroll's Portfolio
 
 # Short description of your site
-description: Data Scientist and information junkie
+description: Data Scientist and Information Lover
 
 # Your name to show in the footer
 author: Timothy Carroll
@@ -38,9 +38,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  github: daattali
-  twitter: daattali
+  email: "timrocar@gmail.com"
+  github: timrocar
+  twitter: timroca
   rss: true
 #  facebook: deanattali
 #  reddit: yourname

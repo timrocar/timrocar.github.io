@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Lambda School: "https://lambdaschool.com"
-  #-
+    - Github: "https://github.com/timrocar"
   Author's home: "http://timothyrcarroll.com/"
 
 # --- Logo --- #

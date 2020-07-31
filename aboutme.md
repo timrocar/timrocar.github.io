@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: who am I, and why should you trust my data?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Timothy Carroll. 
+I'm originally from the greater Philadelphia Pennsylvania area, and am currently enrolled full-time in the Lambda School Data Science Program!
+- I have always been a data driven individual, but the onset of the COVID-19 virus brought my passion for all things data and information based to a forefront!
+- I am a lover of the arts; film (think Tarkovsky and Kubrick), philosphy (Harris, Watts, Tolle), and an evergrowing colection of vinyl records and spotify libraries!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+What story can I tell for you?
